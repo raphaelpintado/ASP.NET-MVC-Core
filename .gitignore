@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.zip
+*.ide-shm
+/MinhaAppMvcCompleta/.vs/MinhaAppMvcCompleta/v16/Server/sqlite3/storage.ide-wal

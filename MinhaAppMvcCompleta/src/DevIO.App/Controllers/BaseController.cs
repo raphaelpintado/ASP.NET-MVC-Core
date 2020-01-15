@@ -1,5 +1,4 @@
 ﻿using DevIO.Business.Interfaces;
-using DevIO.Business.Notificacoes;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevIO.App.Controllers
