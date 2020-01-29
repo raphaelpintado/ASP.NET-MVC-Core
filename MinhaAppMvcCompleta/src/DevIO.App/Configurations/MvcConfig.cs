@@ -21,7 +21,7 @@ namespace DevIO.App.Configurations
                 options.ModelBindingMessageProvider.SetValueMustBeANumberAccessor(x => "O campo deve ser numérico.");
                 options.ModelBindingMessageProvider.SetValueMustNotBeNullAccessor(x => "ESte campo precisa ser preenchido.");
 
-                options.Filters.Add(new ValidateAntiForgeryTokenAttribute());
+                //options.Filters.Add(new ValidateAntiForgeryTokenAttribute());
             })
             .SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
